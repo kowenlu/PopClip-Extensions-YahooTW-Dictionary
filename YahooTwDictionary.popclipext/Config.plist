@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Name</key>
+	<string>Yahoo Taiwan Dictionary</string>
+	<key>Extension Identifier</key>
+	<string>com.kowenlu.popclip.extension.yahoo-taiwan-dictionary</string>
+	<key>Extension Description</key>
+	<string>Open Yahoo Taiwan Dictionary in a web browser with the selected text.</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>URL</key>
+			<string>https://tw.dictionary.search.yahoo.com/search?p={popclip text}</string>
+			<key>Image File</key>
+			<string>ydict.png</string>
+			<key>Title</key>
+			<string>Yahoo TW Dictionary</string>
+		</dict>
+	</array>
+</dict>
+</plist>

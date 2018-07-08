@@ -1,0 +1,1 @@
+# PopClip-Extensions-YahooTW-Dictionary
